@@ -1,2 +1,2 @@
-# typescript react snippet
+# typescript react snippet for Visual Studio Code
  
